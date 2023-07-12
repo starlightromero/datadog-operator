@@ -51,6 +51,8 @@ const (
 	OTLPIDType = "otlp"
 	// RemoteConfigurationIDType Remote Config feature
 	RemoteConfigurationIDType = "remote_config"
+	// SBOMIDType SBOM collection feature
+	SBOMIDType = "sbom"
 	// DummyIDType Dummy feature.
 	DummyIDType = "dummy"
 )
